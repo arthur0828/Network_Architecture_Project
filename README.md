@@ -2,8 +2,8 @@
 
 The files in this repository were used to configure the network depicted below.
 
-[C:\Users\abohu\Desktop\dockerps](C:\Users\abohu\Desktop\dockerps)
-<img src="C:\Users\abohu\Desktop\dockerps" alt="image" style="height: 100px; width:100px;"/>
+![C:\Diagrams\Cloud_Diagram.PNG](C:\Diagrams\Cloud_Diagram.PNG)]
+
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the YAML file may be used to install only certain pieces of it, such as Filebeat.
 
